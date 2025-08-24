@@ -8,16 +8,9 @@ export default defineConfig({
 	sourcemap: false,
 	splitting: false,
 	bundle: true,
-	dts: false,
+	dts: true,
 	minify: true,
-	external: [
-		'fs/promises',
-		'path',
-		'commander',
-		'@babel/parser',
-		'@babel/types',
-		'@babel/traverse',
-	],
+	external: ['mongoose'],
 	loader: {
 		'.json': 'json', // ⬅ transforms JSON into normal ESM object
 	},
