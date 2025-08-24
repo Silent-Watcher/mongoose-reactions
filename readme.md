@@ -6,7 +6,7 @@
   <p>
 	<a href="#features">features</a> •
 	<a href="#Installation">Installation</a> •
-	<a href="#Usage">Usage</a>
+	<a href="#quick-start">Quick Start</a>
   </p>
 
 
