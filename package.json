@@ -10,7 +10,19 @@
 	"engines": {
 		"node": ">=22"
 	},
-	"keywords": [],
+	"keywords": [
+		"reactions",
+		"mongoose",
+		"mongoose-plugin",
+		"nodejs",
+		"typescript",
+		"likes",
+		"social",
+		"emoji",
+		"polymorphic",
+		"redis",
+		"plugin"
+	],
 	"repository": {
 		"url": "https://github.com/Silent-Watcher/mongoose-reactions"
 	},
